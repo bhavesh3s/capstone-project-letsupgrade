@@ -1,3 +1,8 @@
+Schema PDF
+https://drive.google.com/file/d/1EIj_UAN5Fs29J6CfSvv1pRVuz99Iuzzj/view?usp=sharing
+Project PDF
+https://drive.google.com/file/d/19ad6_l7x0nYQ0z2fZUiPXBnGcxTDQ2pa/view?usp=sharing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
